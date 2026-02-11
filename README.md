@@ -7,7 +7,7 @@ This repo contains the **open-source templates** that power VibeForge:
 - **Contract scoring** (Contract Score + missing clauses)
 - **Generators** (Forge Contract markdown + platform-specific agent prompts)
 
-> Live demo: https://vibeforge.replit.app
+> Live demo: https://tryvibeforge.com/
 
 ## What is VibeForge?
 
